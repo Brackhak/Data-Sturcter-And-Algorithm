@@ -1,0 +1,29 @@
+				100 = Drinking
+110 = Cola	   120 = Water		130 = Coffee
+111 = Coke	   121 = Crystal		131 = Nescafe
+112 = Pepsi	   122 = Singha		132 = Birdy
+113 = Fanta	   123 = Namthip		133 = Carabao
+114 = Est		   124 = Nestle		134 = Arabus
+115 = Sprite	   125 = Chang
+116 = 7up		   126 = Purra
+117 = Mirinda	   127 = Aura
+118 = BigCola	   128 = Sprinkle
+
+				200 = Snack
+210 = Chip	220 = Chocolate
+211 = Lay		221 = KitKat
+212 = Tasto	222 = M&M
+213 = SnackJack	223 = Ferrero
+214 = Hanami	224 = Meji(ที่เป็นขนมช็อคโก)
+215 = Cornae	225 = Hershay
+216 = Oreo
+217 = Potae
+
+
+
+
+
+
+
+
+
